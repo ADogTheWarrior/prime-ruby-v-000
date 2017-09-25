@@ -3,8 +3,6 @@ def prime(int)
     return false
   elsif int == 2
     return true
-  elsif int.even?
-    return false
   else
     return prime_detection(int)
   end
