@@ -10,3 +10,10 @@ def prime(int)
   end
   is_prime
 end
+
+
+puts prime(5)
+puts "5 should be true"
+
+puts prime(8)
+puts "8 should be false"
