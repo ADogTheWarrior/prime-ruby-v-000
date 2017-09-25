@@ -7,6 +7,7 @@ def prime(int)
       is_prime = false
       return is_prime
     end
+    a += 1
   end
   is_prime
 end
