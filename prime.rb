@@ -1,0 +1,2 @@
+def prime(int)
+end
