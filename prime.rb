@@ -11,5 +11,6 @@ def prime(int)
 end
 
 def prime_detection(int)
-  
+a = ...
+b = ...
 end
