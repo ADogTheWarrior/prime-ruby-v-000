@@ -6,6 +6,10 @@ def prime(int)
   elsif int.even?
     return false
   else
-
+    return prime_detection(int)
   end
+end
+
+def prime_detection(int)
+  
 end
