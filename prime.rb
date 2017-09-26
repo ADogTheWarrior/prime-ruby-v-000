@@ -1,7 +1,7 @@
 def prime(int)
   if int < 2
     return false
-  elsif int == 2
+  elsif int == 2 || int == 3
     return true
   else
     return prime_detection(int)
