@@ -9,10 +9,13 @@ def prime(int)
 end
 
 def prime_detection(int)
-  output = true
   a = 2
   while a < int
-
+    b = int / a
+    if condition
+      return false
+    end
     a += 1
   end
+  return true
 end
