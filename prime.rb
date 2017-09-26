@@ -12,7 +12,7 @@ def prime_detection(int)
   a = 2
   while a < int
     b = int / a
-    if condition
+    if a * b == int
       return false
     end
     a += 1
